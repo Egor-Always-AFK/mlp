@@ -1,1 +1,2 @@
-# mlp
+# perceptrone impl
+QT + CPP 
